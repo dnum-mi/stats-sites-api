@@ -58,9 +58,9 @@
     "url": "https://histovec.interieur.gouv.fr/histovec",
     "icon": "https://favicons.githubusercontent.com/histovec.interieur.gouv.fr",
     "slug": "histovec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 857,
     "timeMonth": 857,
     "timeYear": 857,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   },
   {
     "name": "API Personnes décédées",
