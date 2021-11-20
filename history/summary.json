@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/histovec.interieur.gouv.fr",
     "slug": "histovec",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 845,
     "timeDay": 782,
     "timeWeek": 836,
@@ -79,17 +79,19 @@
     "url": "https://deces.matchid.io/deces/api/v1/search?q=pompidou%20georges&fuzzy=false",
     "icon": "https://avatars.githubusercontent.com/u/32673019?s=200&v=4",
     "slug": "api-personnes-decedees",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 333,
-    "timeWeek": 356,
-    "timeMonth": 367,
-    "timeYear": 367,
-    "dailyMinutesDown": {}
+    "time": 345,
+    "timeDay": 241,
+    "timeWeek": 330,
+    "timeMonth": 345,
+    "timeYear": 345,
+    "dailyMinutesDown": {
+      "2021-11-20": 0
+    }
   }
 ]
