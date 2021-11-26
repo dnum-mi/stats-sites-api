@@ -14,7 +14,14 @@ sites:
   - name: Histovec
     url: https://histovec.interieur.gouv.fr/histovec
     expectedStatusCodes:
-      - 200  
+      - 200
+  - name: Site ANTS
+    url: https://ants.gouv.fr
+    method: GET
+    icon: https://ants.gouv.fr/logo-republique-francaise.svg
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
   - name: API Personnes décédées
     url: https://deces.matchid.io/deces/api/v1/search?q=pompidou%20georges&fuzzy=false
     method: GET
