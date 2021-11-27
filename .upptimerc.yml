@@ -11,7 +11,7 @@ sites:
     method: GET
   - name: Site IA Flash
     url: https://iaflash.fr/
-  - name: Histovec
+  - name: Site Histovec
     url: https://histovec.interieur.gouv.fr/histovec
     expectedStatusCodes:
       - 200
@@ -51,6 +51,8 @@ status-website:
   introMessage: Retrouvez sur ce tableau de bord, les disponibilités des Sites et API 
  
   navbar:
+    - title: Autre dashboard
+      href: https://dnum-mi.github.io/dashlord
     - title: api.minint.fr
       href: http://api.minint.fr
     - title: GitHub
