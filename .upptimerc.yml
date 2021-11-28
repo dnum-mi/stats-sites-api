@@ -45,6 +45,7 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://www.interieur.gouv.fr/var/miomcti/storage/images/media/mi/images/bloc-marque-minint/981901-1-fre-FR/Bloc-marque-minint_large.png
   name: Upptime - Disponibilité des sites et api
+  theme: night
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introTitle: "**Disponibilité des Sites et API**"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
