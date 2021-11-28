@@ -108,3 +108,12 @@ i18n:
   errorIntro: Oups ! Une erreur s'est produite en tentant de charger les derniers statuts de disponibilité.
   errorText: Veuillez réessayer dans quelques instants.
   errorHome: Retour à l'accueil
+
+workflowSchedule:
+  graphs: "*/10 * * * *"
+  responseTime: "*/10 * * * *"
+  staticSite: "*/10 * * * *"
+  summary: "*/10 * * * *"
+  updateTemplate: "*/10 * * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/10 * * * *"
