@@ -28,6 +28,12 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000
+  - name: Site telepoint
+    url: https://tele7.interieur.gouv.fr
+    method: GET
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000    
   - name: API Personnes décédées
     url: https://deces.matchid.io/deces/api/v1/search?q=pompidou%20georges&fuzzy=false
     method: GET
