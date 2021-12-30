@@ -5,11 +5,11 @@ repo: stats-sites-api # The name of this repository
 sites:
   - name: Site Google
     url: https://www.google.com
-  - name: [C3] Site Personnes Décédées
+  - name: C3 Site Personnes Décédées
     url: https://deces.matchid.io/search?q=pompidou+georges
     icon: https://avatars.githubusercontent.com/u/32673019?s=200&v=4
     method: GET
-  - name: [C3] Site IA Flash
+  - name: C3 Site IA Flash
     url: https://iaflash.fr/
   - name: Site Histovec
     url: https://histovec.interieur.gouv.fr/histovec
@@ -34,7 +34,7 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000    
-  - name: [C3] API Personnes décédées
+  - name: C3 API Personnes décédées
     url: https://deces.matchid.io/deces/api/v1/search?q=pompidou%20georges&fuzzy=false
     method: GET
     icon: https://avatars.githubusercontent.com/u/32673019?s=200&v=4
