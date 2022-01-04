@@ -1,7 +1,7 @@
 url: https://tele7.interieur.gouv.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-01-04T10:58:46.021Z
+status: up
+code: 200
+responseTime: 1230
+lastUpdated: 2022-01-04T11:19:19.215Z
 startTime: Mon Dec 13 2021 20:59:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
