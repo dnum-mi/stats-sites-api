@@ -131,9 +131,9 @@
     "url": "https://tele7.interieur.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/tele7.interieur.gouv.fr",
     "slug": "site-telepoint",
-    "status": "up",
+    "status": "down",
     "uptime": "95.22%",
-    "uptimeDay": "99.87%",
+    "uptimeDay": "99.83%",
     "uptimeWeek": "85.26%",
     "uptimeMonth": "95.22%",
     "uptimeYear": "95.22%",
@@ -143,7 +143,7 @@
     "timeMonth": 938,
     "timeYear": 938,
     "dailyMinutesDown": {
-      "2022-01-04": 2,
+      "2022-01-04": 3,
       "2021-12-31": 7,
       "2021-12-30": 575,
       "2021-12-29": 902
