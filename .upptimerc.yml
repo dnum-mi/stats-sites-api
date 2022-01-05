@@ -42,6 +42,11 @@ sites:
       - 200
       - 400
     maxResponseTime: 3000
+  - name: C3 API ROF v1 beta
+    url: https://api-rof-bd.herokuapp.com/api/v1/operateurs_funeraires/healthcheck
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
