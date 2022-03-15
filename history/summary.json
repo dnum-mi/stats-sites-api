@@ -290,8 +290,8 @@
     "status": "down",
     "uptime": "97.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.59%",
-    "uptimeMonth": "95.30%",
+    "uptimeWeek": "79.52%",
+    "uptimeMonth": "95.29%",
     "uptimeYear": "97.92%",
     "time": 465,
     "timeDay": 471,
@@ -299,7 +299,7 @@
     "timeMonth": 468,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2022-03-15": 332,
+      "2022-03-15": 340,
       "2022-03-14": 1440,
       "2022-03-13": 284
     }
