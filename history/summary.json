@@ -35,7 +35,7 @@
     "time": 379,
     "timeDay": 373,
     "timeWeek": 401,
-    "timeMonth": 380,
+    "timeMonth": 381,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -338,7 +338,7 @@
     "slug": "c3-api-rof-v1-beta",
     "status": "up",
     "uptime": "96.18%",
-    "uptimeDay": "92.37%",
+    "uptimeDay": "93.21%",
     "uptimeWeek": "94.38%",
     "uptimeMonth": "95.53%",
     "uptimeYear": "96.18%",
