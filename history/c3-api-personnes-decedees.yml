@@ -1,7 +1,7 @@
 url: https://deces.matchid.io/deces/api/v1/search?q=pompidou%20georges&fuzzy=false
 status: up
 code: 200
-responseTime: 519
-lastUpdated: 2022-07-04T08:45:36.519Z
+responseTime: 433
+lastUpdated: 2022-07-04T09:12:56.580Z
 startTime: Thu Dec 30 2021 13:12:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
