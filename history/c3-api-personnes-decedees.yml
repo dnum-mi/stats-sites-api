@@ -1,7 +1,7 @@
 url: https://deces.matchid.io/deces/api/v1/search?q=pompidou%20georges&fuzzy=false
 status: down
 code: 503
-responseTime: 53
-lastUpdated: 2022-11-28T06:16:21.078Z
+responseTime: 34
+lastUpdated: 2022-11-28T06:42:26.665Z
 startTime: Thu Dec 30 2021 13:12:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
