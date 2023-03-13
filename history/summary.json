@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 104,
+    "timeDay": 105,
     "timeWeek": 95,
     "timeMonth": 100,
     "timeYear": 102,
@@ -23,14 +23,14 @@
     "icon": "https://avatars.githubusercontent.com/u/32673019?s=200&v=4",
     "slug": "c3-site-personnes-decedees",
     "status": "up",
-    "uptime": "96.59%",
+    "uptime": "96.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.92%",
     "time": 323,
-    "timeDay": 309,
-    "timeWeek": 313,
+    "timeDay": 317,
+    "timeWeek": 314,
     "timeMonth": 304,
     "timeYear": 323,
     "dailyMinutesDown": {
@@ -78,8 +78,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 342,
-    "timeDay": 360,
-    "timeWeek": 320,
+    "timeDay": 362,
+    "timeWeek": 321,
     "timeMonth": 318,
     "timeYear": 343,
     "dailyMinutesDown": {
@@ -99,8 +99,8 @@
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.32%",
     "time": 836,
-    "timeDay": 812,
-    "timeWeek": 822,
+    "timeDay": 834,
+    "timeWeek": 823,
     "timeMonth": 822,
     "timeYear": 836,
     "dailyMinutesDown": {
@@ -186,9 +186,9 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.25%",
-    "time": 679,
-    "timeDay": 650,
-    "timeWeek": 673,
+    "time": 680,
+    "timeDay": 673,
+    "timeWeek": 674,
     "timeMonth": 666,
     "timeYear": 679,
     "dailyMinutesDown": {
@@ -276,9 +276,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.87%",
     "time": 1535,
-    "timeDay": 2112,
-    "timeWeek": 1735,
-    "timeMonth": 1692,
+    "timeDay": 2144,
+    "timeWeek": 1739,
+    "timeMonth": 1693,
     "timeYear": 1534,
     "dailyMinutesDown": {
       "2023-03-12": 51,
@@ -298,8 +298,7 @@
       "2022-06-22": 60,
       "2022-04-27": 29,
       "2022-03-29": 21,
-      "2022-03-16": 18,
-      "2022-03-13": 5
+      "2022-03-16": 18
     }
   },
   {
@@ -314,9 +313,9 @@
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.30%",
     "time": 911,
-    "timeDay": 903,
-    "timeWeek": 911,
-    "timeMonth": 892,
+    "timeDay": 934,
+    "timeWeek": 915,
+    "timeMonth": 893,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2023-03-12": 6,
@@ -410,10 +409,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.24%",
     "time": 593,
-    "timeDay": 538,
-    "timeWeek": 543,
+    "timeDay": 547,
+    "timeWeek": 544,
     "timeMonth": 537,
-    "timeYear": 591,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2023-01-30": 6,
       "2022-12-23": 66,
@@ -472,15 +471,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-rof-bd.herokuapp.com.ico",
     "slug": "c3-api-rof-v1-beta",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "97.94%",
     "time": 393,
-    "timeDay": 433,
-    "timeWeek": 427,
-    "timeMonth": 415,
+    "timeDay": 520,
+    "timeWeek": 439,
+    "timeMonth": 418,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2023-03-01": 240,
@@ -547,8 +546,7 @@
       "2022-03-30": 84,
       "2022-03-16": 1140,
       "2022-03-15": 1440,
-      "2022-03-14": 1440,
-      "2022-03-13": 284
+      "2022-03-14": 1440
     }
   }
 ]
