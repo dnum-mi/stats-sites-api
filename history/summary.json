@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.92%",
     "time": 319,
-    "timeDay": 333,
+    "timeDay": 329,
     "timeWeek": 336,
     "timeMonth": 311,
     "timeYear": 318,
@@ -78,8 +78,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 342,
-    "timeDay": 316,
-    "timeWeek": 310,
+    "timeDay": 309,
+    "timeWeek": 309,
     "timeMonth": 310,
     "timeYear": 342,
     "dailyMinutesDown": {
@@ -99,8 +99,8 @@
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.33%",
     "time": 833,
-    "timeDay": 783,
-    "timeWeek": 795,
+    "timeDay": 779,
+    "timeWeek": 793,
     "timeMonth": 815,
     "timeYear": 832,
     "dailyMinutesDown": {
@@ -190,7 +190,7 @@
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.24%",
     "time": 677,
-    "timeDay": 662,
+    "timeDay": 656,
     "timeWeek": 665,
     "timeMonth": 666,
     "timeYear": 676,
@@ -280,8 +280,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 1533,
-    "timeDay": 1696,
-    "timeWeek": 1730,
+    "timeDay": 1668,
+    "timeWeek": 1726,
     "timeMonth": 1695,
     "timeYear": 1532,
     "dailyMinutesDown": {
@@ -316,8 +316,8 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.31%",
     "time": 905,
-    "timeDay": 885,
-    "timeWeek": 889,
+    "timeDay": 876,
+    "timeWeek": 887,
     "timeMonth": 891,
     "timeYear": 905,
     "dailyMinutesDown": {
@@ -409,8 +409,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.50%",
-    "time": 543,
-    "timeDay": 545,
+    "time": 542,
+    "timeDay": 539,
     "timeWeek": 541,
     "timeMonth": 537,
     "timeYear": 539,
@@ -474,8 +474,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 390,
-    "timeDay": 427,
-    "timeWeek": 424,
+    "timeDay": 421,
+    "timeWeek": 423,
     "timeMonth": 418,
     "timeYear": 390,
     "dailyMinutesDown": {
@@ -537,8 +537,7 @@
       "2022-04-11": 95,
       "2022-04-10": 80,
       "2022-04-08": 91,
-      "2022-04-07": 74,
-      "2022-04-04": 86
+      "2022-04-07": 74
     }
   }
 ]
