@@ -1,7 +1,7 @@
 url: https://histovec.interieur.gouv.fr/histovec
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-04-25T10:08:13.455Z
+status: up
+code: 200
+responseTime: 9781
+lastUpdated: 2023-04-25T11:06:29.491Z
 startTime: Sat Nov 27 2021 22:54:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
