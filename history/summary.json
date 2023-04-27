@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 137,
-    "timeWeek": 121,
+    "timeDay": 148,
+    "timeWeek": 122,
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.92%",
     "time": 315,
-    "timeDay": 348,
-    "timeWeek": 327,
+    "timeDay": 349,
+    "timeWeek": 328,
     "timeMonth": 329,
     "timeYear": 314,
     "dailyMinutesDown": {
@@ -78,8 +78,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 339,
-    "timeDay": 340,
-    "timeWeek": 330,
+    "timeDay": 339,
+    "timeWeek": 331,
     "timeMonth": 316,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -99,8 +99,8 @@
     "uptimeMonth": "96.77%",
     "uptimeYear": "99.38%",
     "time": 830,
-    "timeDay": 812,
-    "timeWeek": 921,
+    "timeDay": 809,
+    "timeWeek": 922,
     "timeMonth": 849,
     "timeYear": 830,
     "dailyMinutesDown": {
@@ -174,8 +174,8 @@
     "uptimeMonth": "97.01%",
     "uptimeYear": "99.34%",
     "time": 672,
-    "timeDay": 688,
-    "timeWeek": 669,
+    "timeDay": 689,
+    "timeWeek": 671,
     "timeMonth": 663,
     "timeYear": 672,
     "dailyMinutesDown": {
@@ -255,9 +255,9 @@
     "uptimeMonth": "97.00%",
     "uptimeYear": "99.62%",
     "time": 1547,
-    "timeDay": 2649,
-    "timeWeek": 2572,
-    "timeMonth": 1907,
+    "timeDay": 2653,
+    "timeWeek": 2573,
+    "timeMonth": 1908,
     "timeYear": 1547,
     "dailyMinutesDown": {
       "2023-04-26": 232,
@@ -279,8 +279,7 @@
       "2022-09-10": 32,
       "2022-08-12": 20,
       "2022-06-24": 33,
-      "2022-06-22": 60,
-      "2022-04-27": 29
+      "2022-06-22": 60
     }
   },
   {
@@ -295,9 +294,9 @@
     "uptimeMonth": "97.40%",
     "uptimeYear": "99.32%",
     "time": 899,
-    "timeDay": 906,
-    "timeWeek": 874,
-    "timeMonth": 878,
+    "timeDay": 908,
+    "timeWeek": 876,
+    "timeMonth": 879,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2023-04-26": 4,
@@ -374,15 +373,15 @@
     "icon": "https://avatars.githubusercontent.com/u/32673019?s=200&v=4",
     "slug": "c3-api-personnes-decedees",
     "status": "up",
-    "uptime": "94.88%",
+    "uptime": "94.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.51%",
     "time": 530,
-    "timeDay": 590,
-    "timeWeek": 564,
-    "timeMonth": 553,
+    "timeDay": 592,
+    "timeWeek": 565,
+    "timeMonth": 554,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2023-01-30": 6,
@@ -443,7 +442,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
     "time": 392,
-    "timeDay": 468,
+    "timeDay": 425,
     "timeWeek": 429,
     "timeMonth": 419,
     "timeYear": 392,
@@ -491,8 +490,7 @@
       "2022-05-05": 102,
       "2022-05-02": 130,
       "2022-05-01": 90,
-      "2022-04-28": 116,
-      "2022-04-27": 103
+      "2022-04-28": 116
     }
   }
 ]
