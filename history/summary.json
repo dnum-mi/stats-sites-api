@@ -246,19 +246,19 @@
     "url": "https://ants.gouv.fr",
     "icon": "https://ants.gouv.fr/logo-republique-francaise.svg",
     "slug": "site-ants",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.32%",
-    "uptimeDay": "53.32%",
-    "uptimeWeek": "61.63%",
-    "uptimeMonth": "88.25%",
-    "uptimeYear": "99.02%",
+    "uptimeDay": "52.99%",
+    "uptimeWeek": "61.58%",
+    "uptimeMonth": "88.35%",
+    "uptimeYear": "99.03%",
     "time": 1614,
-    "timeDay": 4150,
-    "timeWeek": 4882,
-    "timeMonth": 2837,
-    "timeYear": 1613,
+    "timeDay": 4319,
+    "timeWeek": 4904,
+    "timeMonth": 2846,
+    "timeYear": 1614,
     "dailyMinutesDown": {
-      "2023-05-05": 172,
+      "2023-05-05": 177,
       "2023-05-04": 744,
       "2023-05-03": 440,
       "2023-05-02": 517,
@@ -269,7 +269,7 @@
       "2023-04-27": 279,
       "2023-04-26": 232,
       "2023-04-25": 256,
-      "2023-04-24": 407
+      "2023-04-24": 357
     }
   },
   {
