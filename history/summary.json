@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 102,
-    "timeWeek": 131,
+    "timeDay": 114,
+    "timeWeek": 133,
     "timeMonth": 113,
     "timeYear": 103,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.92%",
     "time": 314,
-    "timeDay": 358,
-    "timeWeek": 342,
+    "timeDay": 361,
+    "timeWeek": 343,
     "timeMonth": 331,
     "timeYear": 313,
     "dailyMinutesDown": {
@@ -78,8 +78,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 336,
-    "timeDay": 325,
-    "timeWeek": 325,
+    "timeDay": 322,
+    "timeWeek": 326,
     "timeMonth": 319,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -94,13 +94,13 @@
     "slug": "site-histovec",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "95.94%",
+    "uptimeDay": "96.06%",
     "uptimeWeek": "89.32%",
     "uptimeMonth": "94.91%",
     "uptimeYear": "99.34%",
     "time": 828,
-    "timeDay": 850,
-    "timeWeek": 818,
+    "timeDay": 834,
+    "timeWeek": 819,
     "timeMonth": 856,
     "timeYear": 826,
     "dailyMinutesDown": {
@@ -169,13 +169,13 @@
     "slug": "site-scae-rga",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "96.09%",
+    "uptimeDay": "96.13%",
     "uptimeWeek": "89.36%",
     "uptimeMonth": "95.02%",
     "uptimeYear": "99.21%",
     "time": 671,
-    "timeDay": 690,
-    "timeWeek": 681,
+    "timeDay": 688,
+    "timeWeek": 682,
     "timeMonth": 666,
     "timeYear": 670,
     "dailyMinutesDown": {
@@ -248,13 +248,13 @@
     "slug": "site-ants",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "45.09%",
-    "uptimeWeek": "62.30%",
+    "uptimeDay": "51.01%",
+    "uptimeWeek": "62.61%",
     "uptimeMonth": "88.31%",
     "uptimeYear": "99.03%",
     "time": 1611,
-    "timeDay": 4548,
-    "timeWeek": 4831,
+    "timeDay": 4459,
+    "timeWeek": 4837,
     "timeMonth": 2807,
     "timeYear": 1611,
     "dailyMinutesDown": {
@@ -279,13 +279,13 @@
     "slug": "site-telepoint",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "75.17%",
+    "uptimeDay": "83.34%",
     "uptimeWeek": "85.84%",
     "uptimeMonth": "94.45%",
     "uptimeYear": "99.10%",
     "time": 897,
-    "timeDay": 926,
-    "timeWeek": 903,
+    "timeDay": 925,
+    "timeWeek": 905,
     "timeMonth": 881,
     "timeYear": 896,
     "dailyMinutesDown": {
@@ -370,8 +370,8 @@
     "uptimeYear": "93.51%",
     "time": 527,
     "timeDay": 575,
-    "timeWeek": 557,
-    "timeMonth": 558,
+    "timeWeek": 558,
+    "timeMonth": 559,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2023-01-30": 6,
@@ -416,8 +416,7 @@
       "2022-06-30": 200,
       "2022-06-29": 171,
       "2022-06-21": 43,
-      "2022-06-19": 40,
-      "2022-05-05": 36
+      "2022-06-19": 40
     }
   },
   {
@@ -432,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 393,
-    "timeDay": 408,
-    "timeWeek": 415,
-    "timeMonth": 416,
+    "timeDay": 405,
+    "timeWeek": 416,
+    "timeMonth": 417,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2023-03-01": 240,
@@ -476,8 +475,7 @@
       "2022-05-10": 72,
       "2022-05-09": 101,
       "2022-05-08": 99,
-      "2022-05-07": 82,
-      "2022-05-05": 102
+      "2022-05-07": 82
     }
   }
 ]
