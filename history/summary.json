@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.92%",
     "time": 313,
-    "timeDay": 340,
+    "timeDay": 345,
     "timeWeek": 337,
     "timeMonth": 334,
     "timeYear": 312,
@@ -78,8 +78,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 335,
-    "timeDay": 297,
-    "timeWeek": 301,
+    "timeDay": 305,
+    "timeWeek": 302,
     "timeMonth": 317,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -99,8 +99,8 @@
     "uptimeMonth": "94.87%",
     "uptimeYear": "99.34%",
     "time": 824,
-    "timeDay": 769,
-    "timeWeek": 798,
+    "timeDay": 777,
+    "timeWeek": 797,
     "timeMonth": 823,
     "timeYear": 823,
     "dailyMinutesDown": {
@@ -173,7 +173,7 @@
     "uptimeMonth": "95.00%",
     "uptimeYear": "99.33%",
     "time": 669,
-    "timeDay": 673,
+    "timeDay": 679,
     "timeWeek": 650,
     "timeMonth": 662,
     "timeYear": 668,
@@ -243,18 +243,19 @@
     "url": "https://ants.gouv.fr",
     "icon": "https://ants.gouv.fr/logo-republique-francaise.svg",
     "slug": "site-ants",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "91.33%",
+    "status": "degraded",
+    "uptime": "99.35%",
+    "uptimeDay": "90.91%",
     "uptimeWeek": "74.25%",
-    "uptimeMonth": "88.60%",
-    "uptimeYear": "99.05%",
-    "time": 1643,
-    "timeDay": 2008,
-    "timeWeek": 4238,
-    "timeMonth": 3215,
+    "uptimeMonth": "88.72%",
+    "uptimeYear": "99.06%",
+    "time": 1644,
+    "timeDay": 2203,
+    "timeWeek": 4230,
+    "timeMonth": 3221,
     "timeYear": 1643,
     "dailyMinutesDown": {
+      "2023-05-10": 6,
       "2023-05-09": 124,
       "2023-05-08": 82,
       "2023-05-07": 230,
@@ -266,7 +267,7 @@
       "2023-05-01": 739,
       "2023-04-30": 396,
       "2023-04-29": 376,
-      "2023-04-28": 375
+      "2023-04-28": 314
     }
   },
   {
@@ -281,7 +282,7 @@
     "uptimeMonth": "94.42%",
     "uptimeYear": "99.11%",
     "time": 895,
-    "timeDay": 874,
+    "timeDay": 883,
     "timeWeek": 872,
     "timeMonth": 878,
     "timeYear": 893,
@@ -364,8 +365,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.51%",
     "time": 522,
-    "timeDay": 570,
-    "timeWeek": 561,
+    "timeDay": 579,
+    "timeWeek": 562,
     "timeMonth": 557,
     "timeYear": 520,
     "dailyMinutesDown": {
@@ -426,7 +427,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 393,
-    "timeDay": 390,
+    "timeDay": 394,
     "timeWeek": 394,
     "timeMonth": 412,
     "timeYear": 393,
@@ -466,8 +467,7 @@
       "2022-05-15": 78,
       "2022-05-14": 113,
       "2022-05-13": 107,
-      "2022-05-12": 96,
-      "2022-05-10": 72
+      "2022-05-12": 96
     }
   }
 ]
