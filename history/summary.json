@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 385,
+    "timeDay": 384,
     "timeWeek": 146,
     "timeMonth": 109,
     "timeYear": 107,
@@ -29,8 +29,8 @@
     "uptimeMonth": "51.95%",
     "uptimeYear": "91.74%",
     "time": 309,
-    "timeDay": 338,
-    "timeWeek": 327,
+    "timeDay": 337,
+    "timeWeek": 326,
     "timeMonth": 327,
     "timeYear": 309,
     "dailyMinutesDown": {
@@ -87,8 +87,7 @@
       "2022-07-06": 31,
       "2022-07-01": 111,
       "2022-06-30": 200,
-      "2022-06-29": 170,
-      "2022-06-21": 44
+      "2022-06-29": 170
     }
   },
   {
@@ -103,8 +102,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 330,
-    "timeDay": 279,
-    "timeWeek": 314,
+    "timeDay": 278,
+    "timeWeek": 313,
     "timeMonth": 314,
     "timeYear": 330,
     "dailyMinutesDown": {
@@ -125,7 +124,7 @@
     "uptimeYear": "99.22%",
     "time": 821,
     "timeDay": 778,
-    "timeWeek": 800,
+    "timeWeek": 799,
     "timeMonth": 878,
     "timeYear": 821,
     "dailyMinutesDown": {
@@ -198,8 +197,8 @@
     "uptimeMonth": "97.89%",
     "uptimeYear": "99.22%",
     "time": 664,
-    "timeDay": 621,
-    "timeWeek": 642,
+    "timeDay": 622,
+    "timeWeek": 641,
     "timeMonth": 656,
     "timeYear": 664,
     "dailyMinutesDown": {
@@ -273,8 +272,8 @@
     "uptimeMonth": "90.01%",
     "uptimeYear": "98.55%",
     "time": 1695,
-    "timeDay": 1724,
-    "timeWeek": 1682,
+    "timeDay": 1725,
+    "timeWeek": 1680,
     "timeMonth": 1795,
     "timeYear": 1698,
     "dailyMinutesDown": {
@@ -317,8 +316,8 @@
     "uptimeMonth": "97.78%",
     "uptimeYear": "99.14%",
     "time": 886,
-    "timeDay": 857,
-    "timeWeek": 855,
+    "timeDay": 856,
+    "timeWeek": 853,
     "timeMonth": 863,
     "timeYear": 886,
     "dailyMinutesDown": {
@@ -386,15 +385,15 @@
     "icon": "https://avatars.githubusercontent.com/u/32673019?s=200&v=4",
     "slug": "c3-api-personnes-decedees",
     "status": "up",
-    "uptime": "95.16%",
+    "uptime": "95.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.95%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "93.16%",
     "time": 527,
-    "timeDay": 555,
-    "timeWeek": 560,
-    "timeMonth": 621,
+    "timeDay": 556,
+    "timeWeek": 559,
+    "timeMonth": 622,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2023-06-16": 76,
@@ -449,8 +448,7 @@
       "2022-07-02": 18,
       "2022-07-01": 111,
       "2022-06-30": 200,
-      "2022-06-29": 171,
-      "2022-06-21": 43
+      "2022-06-29": 171
     }
   },
   {
@@ -465,7 +463,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 394,
-    "timeDay": 460,
+    "timeDay": 459,
     "timeWeek": 399,
     "timeMonth": 405,
     "timeYear": 393,
