@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 97,
+    "timeDay": 96,
     "timeWeek": 115,
     "timeMonth": 110,
     "timeYear": 108,
@@ -26,12 +26,12 @@
     "slug": "c3-site-personnes-decedees",
     "status": "up",
     "uptime": "94.24%",
-    "uptimeDay": "97.61%",
+    "uptimeDay": "99.28%",
     "uptimeWeek": "23.26%",
     "uptimeMonth": "81.77%",
-    "uptimeYear": "90.89%",
+    "uptimeYear": "90.92%",
     "time": 305,
-    "timeDay": 640,
+    "timeDay": 637,
     "timeWeek": 218,
     "timeMonth": 323,
     "timeYear": 307,
@@ -97,8 +97,7 @@
       "2022-11-08": 23,
       "2022-09-27": 18,
       "2022-09-17": 80,
-      "2022-09-16": 1440,
-      "2022-09-15": 1440
+      "2022-09-16": 1440
     }
   },
   {
@@ -113,13 +112,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 321,
-    "timeDay": 284,
+    "timeDay": 283,
     "timeWeek": 286,
     "timeMonth": 298,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2022-09-20": 49,
-      "2022-09-15": 69
+      "2022-09-20": 49
     }
   },
   {
@@ -134,8 +132,8 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.23%",
     "time": 813,
-    "timeDay": 724,
-    "timeWeek": 759,
+    "timeDay": 714,
+    "timeWeek": 757,
     "timeMonth": 761,
     "timeYear": 814,
     "dailyMinutesDown": {
@@ -212,8 +210,8 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.22%",
     "time": 660,
-    "timeDay": 612,
-    "timeWeek": 632,
+    "timeDay": 606,
+    "timeWeek": 633,
     "timeMonth": 635,
     "timeYear": 660,
     "dailyMinutesDown": {
@@ -291,7 +289,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.58%",
     "time": 1773,
-    "timeDay": 1516,
+    "timeDay": 1499,
     "timeWeek": 1586,
     "timeMonth": 1581,
     "timeYear": 1778,
@@ -340,7 +338,7 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.11%",
     "time": 878,
-    "timeDay": 816,
+    "timeDay": 811,
     "timeWeek": 852,
     "timeMonth": 852,
     "timeYear": 878,
@@ -413,13 +411,13 @@
     "icon": "https://avatars.githubusercontent.com/u/32673019?s=200&v=4",
     "slug": "c3-api-personnes-decedees",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "94.94%",
     "uptimeDay": "99.38%",
     "uptimeWeek": "23.20%",
     "uptimeMonth": "81.78%",
-    "uptimeYear": "92.35%",
+    "uptimeYear": "92.37%",
     "time": 517,
-    "timeDay": 499,
+    "timeDay": 492,
     "timeWeek": 150,
     "timeMonth": 452,
     "timeYear": 521,
@@ -481,8 +479,7 @@
       "2022-09-27": 17,
       "2022-09-22": 25,
       "2022-09-17": 80,
-      "2022-09-16": 1440,
-      "2022-09-15": 1440
+      "2022-09-16": 1440
     }
   },
   {
@@ -497,7 +494,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 397,
-    "timeDay": 379,
+    "timeDay": 375,
     "timeWeek": 404,
     "timeMonth": 400,
     "timeYear": 397,
