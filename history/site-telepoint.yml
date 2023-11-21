@@ -1,7 +1,7 @@
 url: https://tele7.interieur.gouv.fr
-status: down
+status: degraded
 code: 403
-responseTime: 896
-lastUpdated: 2023-11-21T04:09:38.143Z
+responseTime: 7892
+lastUpdated: 2023-11-21T04:18:29.902Z
 startTime: 2021-12-13T20:59:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
