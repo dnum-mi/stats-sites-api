@@ -29,7 +29,7 @@ sites:
       - 200
     maxResponseTime: 3000
   - name: Site telepoint
-    url: https://tele7.interieur.gouv.fr
+    url: https://mespoints.permisdeconduire.gouv.fr
     method: GET
     expectedStatusCodes:
       - 200
