@@ -47,6 +47,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000
+  - name: Base Gun
+    url: https://basegun.interieur.gouv.fr
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
