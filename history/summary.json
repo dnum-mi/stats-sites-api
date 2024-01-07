@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.63%",
     "time": 319,
-    "timeDay": 359,
-    "timeWeek": 358,
+    "timeDay": 342,
+    "timeWeek": 356,
     "timeMonth": 361,
     "timeYear": 320,
     "dailyMinutesDown": {
@@ -114,8 +114,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 324,
-    "timeWeek": 310,
+    "timeDay": 318,
+    "timeWeek": 311,
     "timeMonth": 318,
     "timeYear": 311,
     "dailyMinutesDown": {}
@@ -131,9 +131,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.18%",
-    "time": 808,
-    "timeDay": 724,
-    "timeWeek": 758,
+    "time": 807,
+    "timeDay": 697,
+    "timeWeek": 755,
     "timeMonth": 793,
     "timeYear": 807,
     "dailyMinutesDown": {
@@ -216,8 +216,8 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.20%",
     "time": 649,
-    "timeDay": 593,
-    "timeWeek": 633,
+    "timeDay": 562,
+    "timeWeek": 631,
     "timeMonth": 634,
     "timeYear": 648,
     "dailyMinutesDown": {
@@ -297,8 +297,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "98.61%",
     "time": 1837,
-    "timeDay": 1588,
-    "timeWeek": 1614,
+    "timeDay": 1561,
+    "timeWeek": 1612,
     "timeMonth": 1569,
     "timeYear": 1841,
     "dailyMinutesDown": {
@@ -344,18 +344,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "91.25%",
+    "uptime": "91.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.92%",
+    "uptimeYear": "81.85%",
     "time": 801,
     "timeDay": 210,
     "timeWeek": 233,
     "timeMonth": 238,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2024-01-06": 1154,
+      "2024-01-07": 76,
+      "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -492,9 +493,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.43%",
     "time": 518,
-    "timeDay": 468,
+    "timeDay": 471,
     "timeWeek": 475,
-    "timeMonth": 512,
+    "timeMonth": 505,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2023-11-13": 54,
@@ -564,8 +565,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.75%",
     "time": 410,
-    "timeDay": 521,
-    "timeWeek": 489,
+    "timeDay": 494,
+    "timeWeek": 488,
     "timeMonth": 423,
     "timeYear": 410,
     "dailyMinutesDown": {
@@ -576,8 +577,7 @@
       "2023-02-23": 267,
       "2023-02-09": 181,
       "2023-01-13": 220,
-      "2023-01-12": 15,
-      "2023-01-07": 109
+      "2023-01-12": 15
     }
   },
   {
@@ -591,11 +591,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 499,
+    "time": 515,
+    "timeDay": 484,
     "timeWeek": 513,
     "timeMonth": 516,
-    "timeYear": 516,
+    "timeYear": 515,
     "dailyMinutesDown": {}
   }
 ]
