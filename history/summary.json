@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 92,
+    "timeDay": 90,
     "timeWeek": 130,
     "timeMonth": 106,
     "timeYear": 102,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.63%",
     "time": 334,
-    "timeDay": 330,
+    "timeDay": 334,
     "timeWeek": 366,
-    "timeMonth": 365,
+    "timeMonth": 366,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2023-10-27": 1327,
@@ -114,8 +114,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 312,
-    "timeWeek": 276,
+    "timeDay": 314,
+    "timeWeek": 275,
     "timeMonth": 286,
     "timeYear": 306,
     "dailyMinutesDown": {}
@@ -132,8 +132,8 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.14%",
     "time": 787,
-    "timeDay": 713,
-    "timeWeek": 712,
+    "timeDay": 717,
+    "timeWeek": 711,
     "timeMonth": 723,
     "timeYear": 787,
     "dailyMinutesDown": {
@@ -204,8 +204,7 @@
       "2023-04-28": 54,
       "2023-04-26": 5,
       "2023-04-25": 117,
-      "2023-04-23": 75,
-      "2023-04-22": 52
+      "2023-04-23": 75
     }
   },
   {
@@ -220,9 +219,9 @@
     "uptimeMonth": "97.71%",
     "uptimeYear": "99.05%",
     "time": 634,
-    "timeDay": 616,
+    "timeDay": 622,
     "timeWeek": 599,
-    "timeMonth": 606,
+    "timeMonth": 607,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-04-16": 66,
@@ -286,8 +285,7 @@
       "2023-04-28": 54,
       "2023-04-26": 4,
       "2023-04-25": 98,
-      "2023-04-23": 72,
-      "2023-04-22": 51
+      "2023-04-23": 72
     }
   },
   {
@@ -302,9 +300,9 @@
     "uptimeMonth": "98.97%",
     "uptimeYear": "98.61%",
     "time": 1892,
-    "timeDay": 1877,
-    "timeWeek": 1853,
-    "timeMonth": 1933,
+    "timeDay": 1882,
+    "timeWeek": 1850,
+    "timeMonth": 1934,
     "timeYear": 1896,
     "dailyMinutesDown": {
       "2024-04-12": 5,
@@ -363,18 +361,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "80.08%",
+    "uptime": "80.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.20%",
+    "uptimeYear": "53.18%",
     "time": 620,
-    "timeDay": 232,
+    "timeDay": 231,
     "timeWeek": 253,
     "timeMonth": 246,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2024-04-20": 1397,
+      "2024-04-21": 73,
+      "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
@@ -590,8 +589,7 @@
       "2023-04-28": 107,
       "2023-04-26": 4,
       "2023-04-25": 16,
-      "2023-04-23": 71,
-      "2023-04-22": 51
+      "2023-04-23": 71
     }
   },
   {
@@ -606,7 +604,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.35%",
     "time": 526,
-    "timeDay": 498,
+    "timeDay": 504,
     "timeWeek": 540,
     "timeMonth": 540,
     "timeYear": 525,
@@ -676,12 +674,12 @@
     "uptime": "93.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.43%",
+    "uptimeMonth": "80.70%",
     "uptimeYear": "87.89%",
     "time": 896,
-    "timeDay": 365,
+    "timeDay": 366,
     "timeWeek": 355,
-    "timeMonth": 1355,
+    "timeMonth": 1348,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2024-03-26": 1328,
@@ -745,8 +743,8 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.67%",
     "time": 510,
-    "timeDay": 493,
-    "timeWeek": 485,
+    "timeDay": 492,
+    "timeWeek": 483,
     "timeMonth": 496,
     "timeYear": 510,
     "dailyMinutesDown": {
