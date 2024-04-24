@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 141,
-    "timeWeek": 122,
-    "timeMonth": 108,
+    "timeDay": 149,
+    "timeWeek": 121,
+    "timeMonth": 109,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2023-10-18": 43,
@@ -32,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.63%",
     "time": 334,
-    "timeDay": 347,
+    "timeDay": 354,
     "timeWeek": 361,
     "timeMonth": 365,
     "timeYear": 334,
@@ -114,7 +114,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 256,
+    "timeDay": 259,
     "timeWeek": 278,
     "timeMonth": 284,
     "timeYear": 305,
@@ -132,10 +132,10 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.16%",
     "time": 787,
-    "timeDay": 751,
-    "timeWeek": 725,
+    "timeDay": 761,
+    "timeWeek": 726,
     "timeMonth": 726,
-    "timeYear": 786,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2024-04-22": 5,
       "2024-04-18": 4,
@@ -203,8 +203,7 @@
       "2023-05-02": 62,
       "2023-05-01": 7,
       "2023-04-28": 54,
-      "2023-04-26": 5,
-      "2023-04-25": 117
+      "2023-04-26": 5
     }
   },
   {
@@ -219,9 +218,9 @@
     "uptimeMonth": "97.70%",
     "uptimeYear": "99.08%",
     "time": 634,
-    "timeDay": 636,
-    "timeWeek": 611,
-    "timeMonth": 608,
+    "timeDay": 643,
+    "timeWeek": 612,
+    "timeMonth": 609,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2024-04-22": 5,
@@ -284,8 +283,7 @@
       "2023-05-02": 61,
       "2023-05-01": 7,
       "2023-04-28": 54,
-      "2023-04-26": 4,
-      "2023-04-25": 98
+      "2023-04-26": 4
     }
   },
   {
@@ -300,9 +298,9 @@
     "uptimeMonth": "98.87%",
     "uptimeYear": "98.61%",
     "time": 1895,
-    "timeDay": 1851,
-    "timeWeek": 1899,
-    "timeMonth": 1933,
+    "timeDay": 1879,
+    "timeWeek": 1902,
+    "timeMonth": 1934,
     "timeYear": 1891,
     "dailyMinutesDown": {
       "2024-04-22": 42,
@@ -361,18 +359,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "79.80%",
+    "uptime": "79.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.41%",
+    "uptimeYear": "52.39%",
     "time": 615,
-    "timeDay": 260,
+    "timeDay": 262,
     "timeWeek": 255,
     "timeMonth": 245,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2024-04-23": 1398,
+      "2024-04-24": 71,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -589,8 +588,7 @@
       "2023-05-02": 59,
       "2023-05-01": 6,
       "2023-04-28": 107,
-      "2023-04-26": 4,
-      "2023-04-25": 16
+      "2023-04-26": 4
     }
   },
   {
@@ -605,8 +603,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.35%",
     "time": 525,
-    "timeDay": 512,
-    "timeWeek": 532,
+    "timeDay": 517,
+    "timeWeek": 533,
     "timeMonth": 538,
     "timeYear": 525,
     "dailyMinutesDown": {
@@ -675,12 +673,12 @@
     "uptime": "93.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.30%",
+    "uptimeMonth": "90.56%",
     "uptimeYear": "87.89%",
     "time": 895,
-    "timeDay": 390,
-    "timeWeek": 377,
-    "timeMonth": 856,
+    "timeDay": 392,
+    "timeWeek": 376,
+    "timeMonth": 849,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2024-03-26": 1328,
@@ -744,8 +742,8 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.68%",
     "time": 510,
-    "timeDay": 508,
-    "timeWeek": 489,
+    "timeDay": 515,
+    "timeWeek": 490,
     "timeMonth": 496,
     "timeYear": 510,
     "dailyMinutesDown": {
