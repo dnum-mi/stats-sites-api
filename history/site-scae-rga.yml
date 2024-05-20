@@ -1,7 +1,7 @@
 url: https://www.sca-rga.interieur.gouv.fr/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-20T20:16:07.165Z
+status: up
+code: 200
+responseTime: 686
+lastUpdated: 2024-05-20T21:07:09.714Z
 startTime: 2021-11-27T20:14:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
