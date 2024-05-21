@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 104,
-    "timeWeek": 105,
+    "timeDay": 100,
+    "timeWeek": 103,
     "timeMonth": 118,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.80%",
     "time": 336,
-    "timeDay": 397,
-    "timeWeek": 374,
-    "timeMonth": 363,
+    "timeDay": 400,
+    "timeWeek": 375,
+    "timeMonth": 364,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2023-10-27": 1327,
@@ -92,8 +92,7 @@
       "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
-      "2023-05-23": 1265,
-      "2023-05-22": 5
+      "2023-05-23": 1265
     }
   },
   {
@@ -108,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 257,
-    "timeWeek": 277,
+    "timeDay": 260,
+    "timeWeek": 278,
     "timeMonth": 278,
     "timeYear": 303,
     "dailyMinutesDown": {}
@@ -126,8 +125,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.53%",
     "time": 780,
-    "timeDay": 726,
-    "timeWeek": 733,
+    "timeDay": 730,
+    "timeWeek": 734,
     "timeMonth": 739,
     "timeYear": 780,
     "dailyMinutesDown": {
@@ -176,8 +175,7 @@
       "2023-05-26": 104,
       "2023-05-25": 51,
       "2023-05-24": 61,
-      "2023-05-23": 5,
-      "2023-05-22": 7
+      "2023-05-23": 5
     }
   },
   {
@@ -192,8 +190,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.45%",
     "time": 631,
-    "timeDay": 592,
-    "timeWeek": 610,
+    "timeDay": 593,
+    "timeWeek": 611,
     "timeMonth": 620,
     "timeYear": 631,
     "dailyMinutesDown": {
@@ -236,8 +234,7 @@
       "2023-05-27": 482,
       "2023-05-26": 103,
       "2023-05-24": 55,
-      "2023-05-23": 5,
-      "2023-05-22": 7
+      "2023-05-23": 5
     }
   },
   {
@@ -252,8 +249,8 @@
     "uptimeMonth": "99.31%",
     "uptimeYear": "98.91%",
     "time": 1769,
-    "timeDay": 1924,
-    "timeWeek": 2001,
+    "timeDay": 1932,
+    "timeWeek": 2005,
     "timeMonth": 2044,
     "timeYear": 1743,
     "dailyMinutesDown": {
@@ -297,8 +294,7 @@
       "2023-05-26": 6,
       "2023-05-25": 8,
       "2023-05-24": 342,
-      "2023-05-23": 172,
-      "2023-05-22": 369
+      "2023-05-23": 172
     }
   },
   {
@@ -307,18 +303,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "77.38%",
+    "uptime": "77.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.49%",
+    "uptimeYear": "45.46%",
     "time": 568,
-    "timeDay": 193,
-    "timeWeek": 221,
+    "timeDay": 195,
+    "timeWeek": 220,
     "timeMonth": 253,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2024-05-20": 1338,
+      "2024-05-21": 76,
+      "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -540,8 +537,7 @@
       "2023-05-26": 48,
       "2023-05-25": 50,
       "2023-05-24": 55,
-      "2023-05-23": 4,
-      "2023-05-22": 6
+      "2023-05-23": 4
     }
   },
   {
@@ -556,8 +552,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.62%",
     "time": 522,
-    "timeDay": 500,
-    "timeWeek": 522,
+    "timeDay": 503,
+    "timeWeek": 523,
     "timeMonth": 518,
     "timeYear": 522,
     "dailyMinutesDown": {
@@ -607,8 +603,7 @@
       "2023-06-14": 88,
       "2023-06-06": 47,
       "2023-05-29": 57,
-      "2023-05-23": 90,
-      "2023-05-22": 53
+      "2023-05-23": 90
     }
   },
   {
@@ -623,8 +618,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.89%",
     "time": 893,
-    "timeDay": 355,
-    "timeWeek": 386,
+    "timeDay": 363,
+    "timeWeek": 387,
     "timeMonth": 382,
     "timeYear": 902,
     "dailyMinutesDown": {
@@ -690,7 +685,7 @@
     "uptimeYear": "99.73%",
     "time": 510,
     "timeDay": 497,
-    "timeWeek": 497,
+    "timeWeek": 498,
     "timeMonth": 507,
     "timeYear": 510,
     "dailyMinutesDown": {
