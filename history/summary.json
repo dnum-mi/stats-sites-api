@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 126,
+    "timeDay": 112,
     "timeWeek": 106,
     "timeMonth": 117,
     "timeYear": 102,
@@ -30,11 +30,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.29%",
+    "uptimeYear": "90.34%",
     "time": 336,
-    "timeDay": 355,
-    "timeWeek": 369,
-    "timeMonth": 366,
+    "timeDay": 342,
+    "timeWeek": 367,
+    "timeMonth": 364,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2023-10-27": 1327,
@@ -88,8 +88,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-05-27": 1440,
-      "2023-05-26": 1440
+      "2023-05-27": 1440
     }
   },
   {
@@ -104,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 251,
-    "timeWeek": 267,
+    "timeDay": 257,
+    "timeWeek": 269,
     "timeMonth": 277,
     "timeYear": 302,
     "dailyMinutesDown": {}
@@ -120,10 +119,10 @@
     "uptimeDay": "99.60%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 781,
-    "timeDay": 855,
-    "timeWeek": 809,
+    "timeDay": 868,
+    "timeWeek": 808,
     "timeMonth": 756,
     "timeYear": 780,
     "dailyMinutesDown": {
@@ -170,8 +169,7 @@
       "2023-05-30": 6,
       "2023-05-29": 57,
       "2023-05-28": 102,
-      "2023-05-27": 483,
-      "2023-05-26": 104
+      "2023-05-27": 483
     }
   },
   {
@@ -184,11 +182,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 630,
-    "timeDay": 573,
-    "timeWeek": 609,
-    "timeMonth": 618,
+    "timeDay": 571,
+    "timeWeek": 608,
+    "timeMonth": 619,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2024-05-22": 54,
@@ -228,8 +226,7 @@
       "2023-05-31": 48,
       "2023-05-29": 56,
       "2023-05-28": 100,
-      "2023-05-27": 482,
-      "2023-05-26": 103
+      "2023-05-27": 482
     }
   },
   {
@@ -243,10 +240,10 @@
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.07%",
-    "time": 1745,
-    "timeDay": 1826,
+    "time": 1746,
+    "timeDay": 1912,
     "timeWeek": 1952,
-    "timeMonth": 2041,
+    "timeMonth": 2043,
     "timeYear": 1734,
     "dailyMinutesDown": {
       "2024-05-22": 54,
@@ -286,8 +283,7 @@
       "2023-06-02": 426,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
-      "2023-05-30": 172,
-      "2023-05-26": 6
+      "2023-05-30": 172
     }
   },
   {
@@ -296,18 +292,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "77.04%",
+    "uptime": "77.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.42%",
-    "time": 563,
+    "uptimeYear": "44.38%",
+    "time": 562,
     "timeDay": 385,
     "timeWeek": 265,
-    "timeMonth": 263,
+    "timeMonth": 255,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2024-05-24": 1222,
+      "2024-05-25": 75,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -529,8 +526,7 @@
       "2023-05-30": 60,
       "2023-05-29": 56,
       "2023-05-28": 100,
-      "2023-05-27": 481,
-      "2023-05-26": 48
+      "2023-05-27": 481
     }
   },
   {
@@ -545,8 +541,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.66%",
     "time": 522,
-    "timeDay": 497,
-    "timeWeek": 511,
+    "timeDay": 495,
+    "timeWeek": 510,
     "timeMonth": 518,
     "timeYear": 521,
     "dailyMinutesDown": {
@@ -610,9 +606,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.89%",
     "time": 893,
-    "timeDay": 342,
+    "timeDay": 357,
     "timeWeek": 385,
-    "timeMonth": 383,
+    "timeMonth": 384,
     "timeYear": 901,
     "dailyMinutesDown": {
       "2024-03-26": 1328,
@@ -676,8 +672,8 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.71%",
     "time": 510,
-    "timeDay": 509,
-    "timeWeek": 507,
+    "timeDay": 495,
+    "timeWeek": 506,
     "timeMonth": 508,
     "timeYear": 510,
     "dailyMinutesDown": {
