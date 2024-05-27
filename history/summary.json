@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 102,
     "timeDay": 87,
-    "timeWeek": 108,
-    "timeMonth": 112,
+    "timeWeek": 107,
+    "timeMonth": 111,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2023-10-18": 43,
@@ -26,14 +26,14 @@
     "icon": "https://avatars.githubusercontent.com/u/32673019?s=200&v=4",
     "slug": "c3-site-personnes-decedees",
     "status": "up",
-    "uptime": "93.99%",
+    "uptime": "94.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.85%",
+    "uptimeYear": "90.89%",
     "time": 337,
-    "timeDay": 374,
-    "timeWeek": 371,
+    "timeDay": 369,
+    "timeWeek": 370,
     "timeMonth": 365,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -86,8 +86,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -102,8 +101,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 274,
-    "timeWeek": 270,
+    "timeDay": 304,
+    "timeWeek": 273,
     "timeMonth": 278,
     "timeYear": 302,
     "dailyMinutesDown": {}
@@ -118,10 +117,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 780,
-    "timeDay": 760,
-    "timeWeek": 814,
+    "timeDay": 794,
+    "timeWeek": 819,
     "timeMonth": 759,
     "timeYear": 779,
     "dailyMinutesDown": {
@@ -166,8 +165,7 @@
       "2023-06-04": 5,
       "2023-05-31": 48,
       "2023-05-30": 6,
-      "2023-05-29": 57,
-      "2023-05-28": 102
+      "2023-05-29": 57
     }
   },
   {
@@ -182,8 +180,8 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.47%",
     "time": 630,
-    "timeDay": 627,
-    "timeWeek": 609,
+    "timeDay": 657,
+    "timeWeek": 612,
     "timeMonth": 621,
     "timeYear": 629,
     "dailyMinutesDown": {
@@ -222,8 +220,7 @@
       "2023-06-12": 7,
       "2023-06-04": 4,
       "2023-05-31": 48,
-      "2023-05-29": 56,
-      "2023-05-28": 100
+      "2023-05-29": 56
     }
   },
   {
@@ -237,10 +234,10 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.07%",
-    "time": 1744,
-    "timeDay": 2001,
-    "timeWeek": 1952,
-    "timeMonth": 2049,
+    "time": 1743,
+    "timeDay": 2082,
+    "timeWeek": 1962,
+    "timeMonth": 2050,
     "timeYear": 1734,
     "dailyMinutesDown": {
       "2024-05-22": 54,
@@ -289,18 +286,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "76.86%",
+    "uptime": "76.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.89%",
+    "uptimeYear": "43.85%",
     "time": 559,
-    "timeDay": 239,
-    "timeWeek": 269,
+    "timeDay": 249,
+    "timeWeek": 271,
     "timeMonth": 253,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2024-05-26": 1279,
+      "2024-05-27": 76,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -522,8 +520,7 @@
       "2023-06-04": 4,
       "2023-05-31": 47,
       "2023-05-30": 60,
-      "2023-05-29": 56,
-      "2023-05-28": 100
+      "2023-05-29": 56
     }
   },
   {
@@ -532,14 +529,14 @@
     "icon": "https://avatars.githubusercontent.com/u/32673019?s=200&v=4",
     "slug": "c3-api-personnes-decedees",
     "status": "up",
-    "uptime": "94.50%",
+    "uptime": "94.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.66%",
     "time": 522,
-    "timeDay": 507,
-    "timeWeek": 511,
+    "timeDay": 522,
+    "timeWeek": 512,
     "timeMonth": 516,
     "timeYear": 520,
     "dailyMinutesDown": {
@@ -603,8 +600,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.89%",
     "time": 894,
-    "timeDay": 406,
-    "timeWeek": 387,
+    "timeDay": 420,
+    "timeWeek": 389,
     "timeMonth": 386,
     "timeYear": 901,
     "dailyMinutesDown": {
@@ -669,8 +666,8 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.72%",
     "time": 510,
-    "timeDay": 533,
-    "timeWeek": 509,
+    "timeDay": 555,
+    "timeWeek": 512,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
