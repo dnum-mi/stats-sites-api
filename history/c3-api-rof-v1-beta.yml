@@ -1,7 +1,7 @@
 url: https://api-rof-bd.herokuapp.com/api/v1/operateurs_funeraires/healthcheck
 status: up
 code: 200
-responseTime: 640
-lastUpdated: 2024-06-08T16:11:17.839Z
+responseTime: 635
+lastUpdated: 2024-06-08T17:07:47.809Z
 startTime: 2022-01-05T09:27:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
