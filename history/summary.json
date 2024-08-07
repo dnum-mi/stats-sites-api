@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 112,
+    "timeDay": 96,
     "timeWeek": 92,
     "timeMonth": 95,
     "timeYear": 100,
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.86%",
     "time": 347,
-    "timeDay": 378,
-    "timeWeek": 384,
-    "timeMonth": 387,
+    "timeDay": 368,
+    "timeWeek": 383,
+    "timeMonth": 386,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2023-10-27": 1327,
@@ -82,8 +82,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 297,
-    "timeWeek": 297,
+    "timeDay": 287,
+    "timeWeek": 296,
     "timeMonth": 293,
     "timeYear": 299,
     "dailyMinutesDown": {}
@@ -100,7 +100,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 766,
-    "timeDay": 746,
+    "timeDay": 754,
     "timeWeek": 764,
     "timeMonth": 769,
     "timeYear": 765,
@@ -137,8 +137,7 @@
       "2023-10-18": 43,
       "2023-10-12": 50,
       "2023-08-24": 56,
-      "2023-08-19": 6,
-      "2023-08-08": 4
+      "2023-08-19": 6
     }
   },
   {
@@ -153,8 +152,8 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.59%",
     "time": 627,
-    "timeDay": 645,
-    "timeWeek": 660,
+    "timeDay": 653,
+    "timeWeek": 661,
     "timeMonth": 641,
     "timeYear": 626,
     "dailyMinutesDown": {
@@ -187,8 +186,7 @@
       "2023-10-18": 42,
       "2023-10-12": 50,
       "2023-09-21": 6,
-      "2023-08-19": 6,
-      "2023-08-08": 4
+      "2023-08-19": 6
     }
   },
   {
@@ -203,9 +201,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.64%",
     "time": 1826,
-    "timeDay": 2148,
-    "timeWeek": 2226,
-    "timeMonth": 2258,
+    "timeDay": 2102,
+    "timeWeek": 2222,
+    "timeMonth": 2256,
     "timeYear": 1829,
     "dailyMinutesDown": {
       "2024-07-22": 14,
@@ -260,18 +258,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "71.14%",
+    "uptime": "71.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.34%",
+    "uptimeYear": "24.29%",
     "time": 450,
-    "timeDay": 262,
-    "timeWeek": 266,
-    "timeMonth": 274,
-    "timeYear": 441,
+    "timeDay": 267,
+    "timeWeek": 265,
+    "timeMonth": 275,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2024-08-06": 1341,
+      "2024-08-07": 166,
+      "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -552,8 +551,7 @@
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1378,
-      "2023-08-19": 5,
-      "2023-08-08": 60
+      "2023-08-19": 5
     }
   },
   {
@@ -568,9 +566,9 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "93.77%",
     "time": 511,
-    "timeDay": 478,
+    "timeDay": 483,
     "timeWeek": 491,
-    "timeMonth": 514,
+    "timeMonth": 513,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2024-07-15": 6,
@@ -618,18 +616,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-rof-bd.herokuapp.com.ico",
     "slug": "c3-api-rof-v1-beta",
     "status": "down",
-    "uptime": "90.65%",
+    "uptime": "90.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.87%",
+    "uptimeYear": "77.82%",
     "time": 893,
-    "timeDay": 414,
+    "timeDay": 419,
     "timeWeek": 430,
     "timeMonth": 430,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-08-06": 1342,
+      "2024-08-07": 168,
+      "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -728,7 +727,7 @@
     "uptimeYear": "99.79%",
     "time": 513,
     "timeDay": 541,
-    "timeWeek": 541,
+    "timeWeek": 542,
     "timeMonth": 533,
     "timeYear": 513,
     "dailyMinutesDown": {
