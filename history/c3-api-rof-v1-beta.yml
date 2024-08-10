@@ -1,7 +1,7 @@
 url: https://api-rof-bd.herokuapp.com/api/v1/operateurs_funeraires/healthcheck
 status: down
 code: 503
-responseTime: 669
-lastUpdated: 2024-08-10T17:07:02.563Z
+responseTime: 316
+lastUpdated: 2024-08-10T18:10:30.546Z
 startTime: 2022-01-05T09:27:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
