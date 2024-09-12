@@ -1,7 +1,7 @@
 url: https://ants.gouv.fr
-status: degraded
+status: up
 code: 200
-responseTime: 5242
-lastUpdated: 2024-09-12T08:12:55.980Z
+responseTime: 1507
+lastUpdated: 2024-09-12T08:20:56.943Z
 startTime: 2021-11-26T17:47:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
