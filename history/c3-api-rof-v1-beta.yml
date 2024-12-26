@@ -1,7 +1,7 @@
 url: https://api-rof-bd.herokuapp.com/api/v1/operateurs_funeraires/healthcheck
 status: down
 code: 404
-responseTime: 320
-lastUpdated: 2024-12-26T10:10:20.445Z
+responseTime: 74
+lastUpdated: 2024-12-26T11:08:11.087Z
 startTime: 2022-01-05T09:27:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
