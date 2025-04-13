@@ -1,7 +1,7 @@
 url: https://www.sca-rga.interieur.gouv.fr/
-status: degraded
-code: 503
-responseTime: 3653
-lastUpdated: 2025-04-13T08:14:39.081Z
+status: up
+code: 200
+responseTime: 703
+lastUpdated: 2025-04-13T09:10:59.243Z
 startTime: 2021-11-27T20:14:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
