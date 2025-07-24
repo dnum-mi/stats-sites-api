@@ -1,7 +1,7 @@
 url: https://mespoints.permisdeconduire.gouv.fr
-status: degraded
+status: down
 code: 403
-responseTime: 4641
-lastUpdated: 2025-07-24T11:11:30.620Z
+responseTime: 215
+lastUpdated: 2025-07-24T11:19:06.091Z
 startTime: 2021-12-13T20:59:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
