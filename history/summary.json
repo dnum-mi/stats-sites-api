@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 101,
-    "timeDay": 109,
-    "timeWeek": 92,
-    "timeMonth": 94,
-    "timeYear": 101,
+    "time": 102,
+    "timeDay": 395,
+    "timeWeek": 137,
+    "timeMonth": 103,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2025-08-21": 42,
       "2025-02-14": 10
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 405,
-    "timeDay": 528,
-    "timeWeek": 419,
-    "timeMonth": 406,
+    "timeDay": 320,
+    "timeWeek": 406,
+    "timeMonth": 402,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2025-06-19": 43
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 320,
+    "time": 306,
+    "timeDay": 279,
     "timeWeek": 308,
-    "timeMonth": 326,
+    "timeMonth": 325,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -64,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/histovec.interieur.gouv.fr.ico",
     "slug": "site-histovec",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.28%",
     "time": 732,
-    "timeDay": 1045,
-    "timeWeek": 930,
-    "timeMonth": 882,
+    "timeDay": 834,
+    "timeWeek": 922,
+    "timeMonth": 881,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2025-10-09": 27,
@@ -133,8 +133,7 @@
       "2024-12-17": 89,
       "2024-11-27": 42,
       "2024-11-24": 48,
-      "2024-11-19": 42,
-      "2024-10-19": 15
+      "2024-11-19": 42
     }
   },
   {
@@ -149,9 +148,9 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.35%",
     "time": 601,
-    "timeDay": 768,
-    "timeWeek": 758,
-    "timeMonth": 746,
+    "timeDay": 740,
+    "timeWeek": 755,
+    "timeMonth": 745,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-10-09": 26,
@@ -209,8 +208,7 @@
       "2024-12-18": 7,
       "2024-11-27": 41,
       "2024-11-24": 48,
-      "2024-11-19": 42,
-      "2024-10-19": 14
+      "2024-11-19": 42
     }
   },
   {
@@ -222,12 +220,12 @@
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1633,
-    "timeDay": 1958,
-    "timeWeek": 1940,
-    "timeMonth": 1948,
+    "timeDay": 1809,
+    "timeWeek": 1915,
+    "timeMonth": 1939,
     "timeYear": 1626,
     "dailyMinutesDown": {
       "2025-09-18": 67,
@@ -251,18 +249,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "49.01%",
+    "uptime": "48.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 226,
-    "timeDay": 351,
-    "timeWeek": 345,
-    "timeMonth": 366,
+    "timeDay": 364,
+    "timeWeek": 353,
+    "timeMonth": 365,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-10-17": 934,
+      "2025-10-19": 121,
+      "2025-10-18": 1440,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -624,9 +624,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-20": 1440
     }
   },
   {
@@ -641,9 +639,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.96%",
     "time": 524,
-    "timeDay": 542,
-    "timeWeek": 508,
-    "timeMonth": 519,
+    "timeDay": 474,
+    "timeWeek": 506,
+    "timeMonth": 517,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-10-13": 127,
@@ -657,18 +655,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-rof-bd.herokuapp.com.ico",
     "slug": "c3-api-rof-v1-beta",
     "status": "down",
-    "uptime": "61.99%",
+    "uptime": "61.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 320,
-    "timeDay": 248,
-    "timeWeek": 250,
-    "timeMonth": 267,
-    "timeYear": 318,
+    "time": 319,
+    "timeDay": 201,
+    "timeWeek": 248,
+    "timeMonth": 266,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-10-17": 938,
+      "2025-10-19": 126,
+      "2025-10-18": 1440,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1030,9 +1030,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-20": 1440
     }
   },
   {
@@ -1047,8 +1045,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 497,
-    "timeDay": 633,
-    "timeWeek": 624,
+    "timeDay": 616,
+    "timeWeek": 620,
     "timeMonth": 614,
     "timeYear": 496,
     "dailyMinutesDown": {
