@@ -1,7 +1,7 @@
 url: https://deces.matchid.io/search?q=pompidou+georges
-status: down
-code: 502
-responseTime: 444
-lastUpdated: 2025-10-22T04:14:19.178Z
+status: up
+code: 200
+responseTime: 362
+lastUpdated: 2025-10-22T04:23:11.788Z
 startTime: 2021-12-30T13:11:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
