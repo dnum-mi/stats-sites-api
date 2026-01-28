@@ -1,7 +1,7 @@
 url: https://basegun.interieur.gouv.fr
-status: down
-code: 503
-responseTime: 967
-lastUpdated: 2026-01-28T10:18:50.575Z
+status: up
+code: 200
+responseTime: 650
+lastUpdated: 2026-01-28T11:16:15.378Z
 startTime: 2023-12-06T07:54:50.940Z
 generator: Upptime <https://github.com/upptime/upptime>
