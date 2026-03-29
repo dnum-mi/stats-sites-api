@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 129,
-    "timeDay": 112,
+    "timeDay": 108,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 129,
@@ -27,15 +27,15 @@
     "icon": "https://avatars.githubusercontent.com/u/32673019?s=200&v=4",
     "slug": "c3-site-personnes-decedees",
     "status": "up",
-    "uptime": "96.58%",
+    "uptime": "96.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 411,
-    "timeDay": 357,
-    "timeWeek": 329,
-    "timeMonth": 358,
+    "timeDay": 351,
+    "timeWeek": 326,
+    "timeMonth": 357,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2026-02-04": 7,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 300,
-    "timeWeek": 309,
-    "timeMonth": 326,
+    "timeDay": 290,
+    "timeWeek": 306,
+    "timeMonth": 328,
     "timeYear": 322,
     "dailyMinutesDown": {}
   },
@@ -74,9 +74,9 @@
     "uptimeMonth": "99.10%",
     "uptimeYear": "98.39%",
     "time": 793,
-    "timeDay": 637,
-    "timeWeek": 1063,
-    "timeMonth": 828,
+    "timeDay": 641,
+    "timeWeek": 1060,
+    "timeMonth": 826,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2026-03-23": 285,
@@ -157,8 +157,7 @@
       "2025-04-13": 408,
       "2025-04-11": 53,
       "2025-04-10": 41,
-      "2025-04-07": 26,
-      "2025-03-29": 57
+      "2025-04-07": 26
     }
   },
   {
@@ -173,9 +172,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.23%",
     "time": 654,
-    "timeDay": 545,
-    "timeWeek": 561,
-    "timeMonth": 609,
+    "timeDay": 534,
+    "timeWeek": 560,
+    "timeMonth": 610,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2026-03-16": 40,
@@ -249,8 +248,7 @@
       "2025-04-29": 44,
       "2025-04-25": 26,
       "2025-04-13": 408,
-      "2025-04-07": 25,
-      "2025-03-29": 57
+      "2025-04-07": 25
     }
   },
   {
@@ -264,11 +262,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 1333,
-    "timeDay": 542,
-    "timeWeek": 587,
+    "time": 1332,
+    "timeDay": 576,
+    "timeWeek": 583,
     "timeMonth": 616,
-    "timeYear": 1329,
+    "timeYear": 1328,
     "dailyMinutesDown": {
       "2026-01-12": 49,
       "2025-12-22": 116,
@@ -293,18 +291,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mespoints.permisdeconduire.gouv.fr.ico",
     "slug": "site-telepoint",
     "status": "down",
-    "uptime": "43.94%",
+    "uptime": "43.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 271,
-    "timeDay": 138,
-    "timeWeek": 170,
-    "timeMonth": 200,
+    "timeDay": 154,
+    "timeWeek": 171,
+    "timeMonth": 201,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2026-03-28": 885,
+      "2026-03-29": 172,
+      "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
@@ -667,8 +666,7 @@
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
-      "2025-03-30": 1440,
-      "2025-03-29": 1440
+      "2025-03-30": 1440
     }
   },
   {
@@ -683,8 +681,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 531,
-    "timeDay": 552,
-    "timeWeek": 529,
+    "timeDay": 576,
+    "timeWeek": 526,
     "timeMonth": 506,
     "timeYear": 531,
     "dailyMinutesDown": {
@@ -706,18 +704,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-rof-bd.herokuapp.com.ico",
     "slug": "c3-api-rof-v1-beta",
     "status": "down",
-    "uptime": "55.48%",
+    "uptime": "55.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 264,
-    "timeDay": 178,
-    "timeWeek": 244,
+    "timeDay": 207,
+    "timeWeek": 243,
     "timeMonth": 277,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2026-03-28": 889,
+      "2026-03-29": 176,
+      "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
@@ -1080,8 +1079,7 @@
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
-      "2025-03-30": 1440,
-      "2025-03-29": 1440
+      "2025-03-30": 1440
     }
   },
   {
@@ -1096,9 +1094,9 @@
     "uptimeMonth": "98.74%",
     "uptimeYear": "98.41%",
     "time": 542,
-    "timeDay": 418,
-    "timeWeek": 445,
-    "timeMonth": 486,
+    "timeDay": 436,
+    "timeWeek": 444,
+    "timeMonth": 489,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2026-03-05": 501,
